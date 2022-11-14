@@ -19,3 +19,12 @@
 6. Accuracy
 7. Precision
 8. F-beta score
+## Support Vector Machine
+1. Support Vector Machines (SVM)
+2. Support Vector Classification (SVC)
+3. Support Vector Regressor (SVR)
+4. SVM Kernel
+5. Linear Kernel
+6. Polynomial Kernel
+7. RBF Kernel
+8. Sigmoid Kernel
