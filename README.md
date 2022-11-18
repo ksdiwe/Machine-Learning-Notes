@@ -19,7 +19,7 @@
 6. Accuracy
 7. Precision
 8. F-beta score
-## Support Vector Machine
+## Support Vector Machine: Part 01
 1. Support Vector Machines (SVM)
 2. Support Vector Classification (SVC)
 3. Support Vector Regressor (SVR)
@@ -28,3 +28,9 @@
 6. Polynomial Kernel
 7. RBF Kernel
 8. Sigmoid Kernel
+## Support Vector Machine: Part 02
+1. Mathematical Derivation of SVM
+2. Hinge Loss
+3. Lagrange Duality
+4. Dual form
+5. Quadratic Programming
