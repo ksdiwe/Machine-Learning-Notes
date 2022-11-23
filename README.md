@@ -34,3 +34,5 @@
 3. Lagrange Duality
 4. Dual form
 5. Quadratic Programming
+## ROC Curve
+(Receiver Operating Characteristic Curve)
