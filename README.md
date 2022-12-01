@@ -49,6 +49,6 @@
 4. Information Gain
 5. Mathematical calculation on the Regression Problem
 6. Pruning
-- Pre-Pruning
-- Post-Pruning
+ - Pre-Pruning
+ - Post-Pruning
 7. Algorithms in Decision Tree
