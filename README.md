@@ -36,3 +36,19 @@
 5. Quadratic Programming
 ## ROC Curve
 (Receiver Operating Characteristic Curve)
+## Decision Tree by Andrew NG lecture
+1. Decision Tree Learning
+2. Entropy as a measure of Impurity
+3. Choosing a split: Information Gain
+4. One-Hot Coding
+5. Continuous valued feature
+## Decision Tree
+1. Decision Tree
+2. Gini Impurities
+3. Entropy
+4. Information Gain
+5. Mathematical calculation on the Regression Problem
+6. Pruning
+- Pre-Pruning
+- Post-Pruning
+7. Algorithms in Decision Tree
