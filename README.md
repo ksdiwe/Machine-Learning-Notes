@@ -52,3 +52,8 @@
  - Pre-Pruning
  - Post-Pruning
 7. Algorithms in Decision Tree
+## Ensemble Techniques
+1. Ensemble Techniques
+2. Voting Ensemble
+3. Bagging
+4. Random Forest
