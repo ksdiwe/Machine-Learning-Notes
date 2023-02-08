@@ -57,3 +57,6 @@
 2. Voting Ensemble
 3. Bagging
 4. Random Forest
+## Boosting Algorithms
+1. Boosting
+2. Adaptive Boosting
