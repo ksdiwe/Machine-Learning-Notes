@@ -60,3 +60,5 @@
 ## Boosting Algorithms
 1. Boosting
 2. Adaptive Boosting
+## Clustering
+* K-means Algorithm
