@@ -62,3 +62,5 @@
 2. Adaptive Boosting
 ## Clustering
 * K-means Algorithm
+* Hierarchical Clustering
+* DBSCAN
