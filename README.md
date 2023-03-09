@@ -64,3 +64,4 @@
 * K-means Algorithm
 * Hierarchical Clustering
 * DBSCAN
+## Naive Bayes
